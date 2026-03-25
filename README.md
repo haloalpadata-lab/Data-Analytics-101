@@ -1,6 +1,5 @@
 # 📊 Data-Analytics
 **Author:** Hendri | **Role:** Aspiring Data Analyst
-**Status:** Active Learning & Portfolio Building
 
 ## About This Repository
 This repository contains my daily progress and projects as I transition into a freelance Data Analyst role for the US Market. It demonstrates my skills in Python, Data Structures, and eventually Data Visualization and Pandas.
