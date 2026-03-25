@@ -1,4 +1,4 @@
-# 📊 Data-Analytics-101
+# 📊 Data-Analytics
 **Author:** Hendri | **Role:** Aspiring Data Analyst
 **Status:** Active Learning & Portfolio Building
 
