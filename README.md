@@ -2,7 +2,6 @@
 
 **Author:** Hendri  
 **Role:** Aspiring Freelance Data Analyst | Computer Science Lecturer  
-**Target Market:** US Freelance (Upwork)  
 **Background:** M.Sc. Computer Science, IPB University
 
 ---
